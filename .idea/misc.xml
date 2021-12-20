@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/Desktop/Android Studio/MyMenu-master/app/src/main/res/layout/activity_home.xml" value="0.22868217054263565" />
+        <entry key="..\:/Users/HP/Desktop/Android Studio/MyMenu-master/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/Desktop/Android Studio/MyMenu-master/app/src/main/res/layout/my_row.xml" value="0.20848056537102475" />
+        <entry key="..\:/Users/HP/Desktop/Android Studio/MyMenu-master2/app/src/main/res/drawable/ic_favorite_red_24dp.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/HP/Desktop/Android Studio/MyMenu-master2/app/src/main/res/drawable/ic_favorite_shadow_24dp.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/HP/Desktop/Android Studio/MyMenu-master2/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/HP/Desktop/Android Studio/MyMenu-master2/app/src/main/res/layout/my_row.xml" value="0.2" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Menu/app/src/main/res/drawable/buttonbordershadow.xml" value="0.2203125" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Menu/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Menu/app/src/main/res/drawable/round.xml" value="0.2203125" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Menu/app/src/main/res/drawable/round_button.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Menu/app/src/main/res/drawable/shadow.xml" value="0.2203125" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Menu/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Menu/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Menu/app/src/main/res/layout/my_row.xml" value="0.33" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Menu/app/src/main/res/mipmap-anydpi-v26/ic_launcher_MLogo.xml" value="0.17447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
